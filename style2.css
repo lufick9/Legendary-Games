@@ -1,0 +1,175 @@
+.header{
+  width:100%;
+  height:50px;
+  background-color:lightblue;
+  font-size:30px;
+  border-radius:0px 0px 15px 15px;
+}
+.mainpage{
+  float:right;
+  margin-right:10px;
+  margin-top:5px;
+}
+.Half-life-3{
+  width:10%;
+  height:240px;
+  border: 5px black solid;
+  border-radius: 15px;
+  position:absolute;
+  left:1%;
+  top:65px;
+}
+.Portal-3{
+  width:10%;
+  height:240px;
+  border: 5px black solid;
+  border-radius: 15px;
+  position:absolute;
+  left:13%;
+  top:65px;
+}
+.Left-4-Dead-3{
+  width:10%;
+  height:240px;
+  border: 5px black solid;
+  border-radius: 15px;
+  position:absolute;
+  left:25%;
+  top:65px;
+}
+.Geometry-Dash-3{
+  width:10%;
+  height:240px;
+  border: 5px black solid;
+  border-radius: 15px;
+  position:absolute;
+  left:38%;
+  top:65px;
+}
+.Minecraft-2{
+  width:10%;
+  height:240px;
+  border: 5px black solid;
+  border-radius: 15px;
+  position:absolute;
+  left:50%;
+  top:65px;
+}
+.Gta-6{
+  width:10%;
+  height:240px;
+  border: 5px black solid;
+  border-radius: 15px;
+  position:absolute;
+  left:63%;
+  top:65px;
+}
+.Far-cry-7{
+  width:10%;
+  height:240px;
+  border: 5px black solid;
+  border-radius: 15px;
+  position:absolute;
+  left:76%;
+  top:65px;
+}
+.Poppy-Playtime-4{
+  width:10%;
+  height:240px;
+  border: 5px black solid;
+  border-radius: 15px;
+  position:absolute;
+  left:88%;
+  top:65px;
+}
+hr {
+  border: none;
+  height: 4px;
+  color: #333;
+  background-color: #333;
+  font-size:350px
+}
+.HL3 {
+  font-size:30px;
+  position:absolute;
+  top:194px;
+  left:15px
+}
+.P3 {
+  font-size:30px;
+  position:absolute;
+  top:194px;
+  left:24px
+}
+.L4D3 {
+  font-size:24px;
+  position:absolute;
+  top:194px;
+  left:10px
+}
+.GD3 {
+  font-size:26px;
+  position:absolute;
+  top:180px;
+  left:16px
+}
+.M2 {
+  font-size:25px;
+  position:absolute;
+  top:194px;
+  left:15px
+}
+.G6 {
+  font-size:30px;
+  position:absolute;
+  top:194px;
+  left:30px
+}
+.FC7 {
+  font-size:30px;
+  position:absolute;
+  top:194px;
+  left:18px
+}
+.PP4 {
+  font-size:25px;
+  position:absolute;
+  top:180px;
+  left:16px;
+}
+.HL3I {
+  position:absolute;
+  top:20px;
+  left:6px;
+}
+.P3I {
+  position:absolute;
+  top:60px;
+  left:0px;
+}
+.L4D3I {
+  position:absolute;
+  top:60px;
+  left:0px;
+}
+.GD3I {
+  position:absolute;
+  top:10px;
+  left:0px;
+}
+.M2I {
+  position:absolute;
+  top:0px;
+  left:0px;
+  border-radius:0px 0px 15px 15px;
+}
+.G6I {
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+.FC7I {
+  position:absolute;
+  top:0px;
+  left:0px;
+}
